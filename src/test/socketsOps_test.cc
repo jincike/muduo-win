@@ -1,3 +1,5 @@
+#if 0
+
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #include <winsock2.h>
 
@@ -50,3 +52,5 @@ int main914()
 	WSACleanup();
 	return 0;
 }
+
+#endif
