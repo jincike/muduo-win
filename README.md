@@ -1,9 +1,10 @@
 # calm
 excerpts from muduo:https://github.com/chenshuo/muduo
+高性能多线程编程
 Change it to windows,use C++11.
 ## How to use
 ### Environment
-Use virtual studio 2017, which can support C++11 std::thread std::mutex and so on.
+Use virsual studio 2019, which can support C++11 std::thread std::mutex and so on.
 ### Build
 Download from github<br/>
 `git clone git@github.com:kevin-gjm/calm.git`<br/>
